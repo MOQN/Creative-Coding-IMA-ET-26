@@ -58,6 +58,15 @@ body,
   margin: 0 auto;
 }
 
+/* top navbar fixed */
+.app-nav {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 1000;
+  background: transparent;
+}
+
 .sidebar {
   background-color: #F9FAFA !important;
   padding: 2rem;
