@@ -85,7 +85,7 @@ body,
 .sidebar {
   background-color: #F9FAFA !important;
   padding: 2rem;
-  max-width: 18rem;
+  max-width: 17rem;
 }
 
 .sidebar h1 a,
@@ -106,7 +106,7 @@ body,
 .sidebar p a {
   color: var(--text-color) !important;
   font-weight: 700;
-  font-size: 15px !important;
+  font-size: 14px !important;
 }
 
 .sidebar ul {
