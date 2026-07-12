@@ -1,0 +1,82 @@
+/* Remove default margins */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0
+}
+
+body {
+  background-color: beige;
+}
+
+.title-box {
+  text-align: center;
+  margin: 20px;
+}
+
+.navbar {
+  text-align: center;
+  margin: 50px;
+}
+
+.box-container {
+  width: 800px;
+  background-color: aqua;
+  margin: auto;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.box {
+  /* background-color: aqua; */
+  background-color: white;
+
+  width: 180px;
+  height: 150px;
+
+  /* margin */
+  /* margin: all */
+  /* margin: tb rl */
+  /* margin: t r b l */
+  /* margin: 50px 0 10px 100px; */
+  /* margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px; */
+  margin: 20px;
+  padding: 10px;
+
+  border: 1px solid black;
+  /* border-width: 10px;
+  border-style: dashed; */
+}
+
+#invisible-box {
+  background-color: tomato;
+  visibility: hidden;
+  /* display: none; */
+}
+
+#special-box-1 {
+  background-color: royalblue;
+
+  position: relative;
+  left: 100px;
+}
+
+#special-box-2 {
+  background-color: blueviolet;
+
+  /* position: absolute; */
+  position: fixed;
+  right: 50px;
+  top: 50px;
+  /* bottom: 50px; */
+}

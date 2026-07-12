@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  color: antiquewhite;
+  /* font-family: 'Courier New', Courier, monospace; */
+  font-family: "Arvo", serif;
+  font-weight: 400;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+p {
+  font-style: italic;
+}
+
+.text-violet {
+  color: violet;
+}
+
+.text-aqua {
+  color: aqua;
+}
+
+.box {
+  background-color: cadetblue;
+  width: 50%;
+}
+
+.container {
+  background-color: pink;
+  display: flex;
+}
