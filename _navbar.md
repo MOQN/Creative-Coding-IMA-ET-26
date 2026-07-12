@@ -3,10 +3,10 @@
 - 🟣
 
   - [Home](README.md)
-  - [Class 01](examples/class01/README.md)
-  - [Class 02](examples/class01/01/README.md)
-  - [Class 03](examples/class01/01/README.md)
-  - [Class 04](examples/class01/01/README.md)
+  - [Class 01](examples/class01/01/README.md)
+  - [Class 02](examples/class01/01/01/README.md)
+  - [Class 03](examples/class01/01/01/README.md)
+  - [Class 04](examples/class01/01/01/README.md)
   
 <!-- - Configuration
   - [Configuration](configuration.md)

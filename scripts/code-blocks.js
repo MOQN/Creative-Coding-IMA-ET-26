@@ -168,6 +168,7 @@
     pre.style.margin = '0';
     pre.style.width = '100%';
     pre.style.minHeight = '400px';
+    pre.style.marginBottom = '10px';
 
     const code = document.createElement('code');
     code.id = 'code-block';
