@@ -2,7 +2,7 @@ let x, y, dia;
 let xSpeed, ySpeed;
 
 function setup() {
-  createCanvas(800, 400);
+  createCanvas(400, 400);
 
   x = width / 2;
   y = height / 2;
