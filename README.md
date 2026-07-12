@@ -17,12 +17,16 @@
 *The course schedule may be subject to change. Changes will be communicated in class.*
 
 Week 1
-- Class 1: Create Your Imaginary Self (Slides, PDF)
+- Class 1: Draw Your Imaginary Self
+  - Introduction to the Course (Slides, PDF)
+  - Introduction to p5.js (Slides, PDF)
+  - Colors (Slides, PDF)
+
 - Class 2: Make It Move (Slides, PDF)
 
 Week 2
-- Class 3: Build Patterns (Slides, PDF)
-- Class 4: Your Imaginary World (Image, Sound & Machine Learning) (Slides, PDF)
+- Class 3: Build Patterns and Systems (Slides, PDF)
+- Class 4: Create Your Interactive Experience (Slides, PDF)
 
 Bonus:
 - Particles
