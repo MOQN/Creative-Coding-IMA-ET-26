@@ -15,5 +15,5 @@ function draw() {
   circle(300, 150, 10);
 
   // mouth
-  rect(100, 200, 200, 20);
+  arc(200, 200, 50, 50, PI * 0.0, PI * 1.0);
 }
