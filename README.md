@@ -10,24 +10,28 @@
 
 - Instructor: [J.H. Moon](mailto:jh.moon@nyu.edu)
 - Classroom: N304 (Inside of IMA Studio)
-- Course Website: **https://tinyurl.com/ima-creative-coding**
+
+
+## Course Materials
+
+- [Course Website: **https://tinyurl.com/ima-creative-coding**](https://tinyurl.com/ima-creative-coding)
   - Please add this link to your bookmarks for easy access!
 - [Creative Coding Live Document](https://docs.qq.com/doc/DY0xqRXdhbk5IZ21W)
+  - We will use this document to flexibly share class notes, links to example sketches and your work!
+- [Creative Coding Drive](https://docs.qq.com/s/E9Av7TDdS0UXXPqrF4M-RG)
+  - The PDF version of all slides are available in this folder on Tencent Drive.
+- [Introduction & People](https://docs.google.com/presentation/d/1lf3MmNeb80IWsQuHQRl26PeYGXYhNjM3LLGK8jCf8F8/edit?usp=sharing)
 
-## Course Schedule & Materials
+## Course Schedule
 
 *The course schedule may be subject to change. Changes will be communicated in class.*
 
-[Introduction](https://docs.google.com/presentation/d/1lf3MmNeb80IWsQuHQRl26PeYGXYhNjM3LLGK8jCf8F8/edit?usp=sharing) (PDF)
-
 Week 1
 - **Class 1: Draw Your Imaginary Self**
-  - [1.1 Intro to p5.js](https://docs.google.com/presentation/d/1vjg7tlyMckREdvHgv1QBg_o6l137BW6kNndZ7YDr_H0/edit?usp=sharing) (PDF)
-  - [1.2 Colors](https://docs.google.com/presentation/d/1dXfal0ScscUZbS7_WelPVKNOWSObkPyOhpCPeSWrRQE/edit?usp=sharing) (PDF)
-  - [1.3 Activity: Draw Your Imaginary Self](https://docs.google.com/presentation/d/17bVmWBIwwekwiEdZ-GWJVAfMzVqZeZIytRbK4bBQU2Q/edit?usp=sharing) (PDF)
-  - p5.js Cheat Sheet (PDF)
+  - [1.1 Intro to p5.js](https://docs.google.com/presentation/d/1vjg7tlyMckREdvHgv1QBg_o6l137BW6kNndZ7YDr_H0/edit?usp=sharing) 
+  - [1.2 Colors](https://docs.google.com/presentation/d/1dXfal0ScscUZbS7_WelPVKNOWSObkPyOhpCPeSWrRQE/edit?usp=sharing) 
+  - [1.3 Activity: Draw Your Imaginary Self](https://docs.google.com/presentation/d/17bVmWBIwwekwiEdZ-GWJVAfMzVqZeZIytRbK4bBQU2Q/edit?usp=sharing) 
   
-
 - **Class 2: Make It Move**
   - Generative Motion
 
