@@ -5,14 +5,9 @@
 
 ### Class 01
 
-[Coordinates & Env Variables](examples/class01/01-coords/README.md)
-
-[Colors](examples/class01/02-colors/README.md)
-
-[Shapes](examples/class01/03-shapes/README.md)
-
-[Arcs & Splines](examples/class01/04-arcs-n-splines/README.md)  
-
-[Custom Shapes](examples/class01/05-custom-shapes/README.md)
-
-[Applications by Prof. Marcela](examples/class01/06-applications/README.md)
+- [COORDS & ENV VARIABLES](examples/class01/01-coords/README.md)
+- [COLORS](examples/class01/02-colors/README.md)
+- [SHAPES](examples/class01/03-shapes/README.md)
+- [ARCS & SPLINES](examples/class01/04-arcs-n-splines/README.md)  
+- [CUSTOM SHAPES](examples/class01/05-custom-shapes/README.md)
+- [APPLICATIONS by Prof. Marcela](examples/class01/06-applications/README.md)

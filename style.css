@@ -109,14 +109,26 @@ body,
   font-size: 14px !important;
 }
 
+
 .sidebar ul {
   margin: 0 !important;
   padding: 0 !important;
 }
 
+/* 
 .sidebar li {
   margin: 2px 0 !important;
   padding: 0 0 !important;
+} */
+
+.sidebar ul li {
+  margin: 1rem 0 !important;
+  /* padding: 0 !important; */
+}
+
+.sidebar ul ul li {
+  margin: 0 10px !important;
+  /* padding: 0 !important; */
 }
 
 .sidebar hr {

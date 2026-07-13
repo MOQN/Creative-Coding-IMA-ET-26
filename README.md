@@ -1,8 +1,17 @@
 
 <img src="assets/title-img.jpg" alt="Creative Coding | Emerging Technologies" />
-<h3 align="right"><a href="https://tinyurl.com/ima-creative-coding">https://tinyurl.com/ima-creative-coding</a></h3>
 
+<div align="right">
+<h2 style="color:DarkOrchid;">Creative Coding</h2>
+
+Slides: [Google Slides](https://drive.google.com/drive/folders/19DSLoEPeacUYDDg4Bmnh3CV7kxA553QZ?usp=drive_link) | [PDFs](https://docs.qq.com/s/E9Av7TDdS0UXXPqrF4M-RG)
+
+Live Documents: [Group1](https://docs.qq.com/doc/DY05jRHRuUkNRaXJN) | [Group2](https://docs.qq.com/doc/DY0xqRXdhbk5IZ21W) | [Group3](https://docs.qq.com/doc/DY3VxVmFqUGdpQ256) | [Group4](https://docs.qq.com/doc/DY2NmZ1VDdEFpR3pv)
+
+</div>
 <br/><br/><br/>
+
+---
 
 # Creative Coding | Emerging Technologies | IMA Summer Institute '26 at NYU Shanghai
 
@@ -14,11 +23,12 @@
 
 ## Course Materials
 
-- [Course Website: **https://tinyurl.com/ima-creative-coding**](https://tinyurl.com/ima-creative-coding)
+- [Course Website](https://tinyurl.com/ima-creative-coding):
+  - [**https://tinyurl.com/ima-creative-coding**](https://tinyurl.com/ima-creative-coding)
   - Please add this link to your bookmarks for easy access!
-- [Creative Coding Live Document](https://docs.qq.com/doc/DY0xqRXdhbk5IZ21W)
+- [Live Document | Creative Coding](https://docs.qq.com/doc/DY0xqRXdhbk5IZ21W)
   - We will use this document to flexibly share class notes, links to example sketches and your work!
-- [Creative Coding Drive](https://docs.qq.com/s/E9Av7TDdS0UXXPqrF4M-RG)
+- [Slides (PDFs) | Creative Coding](https://docs.qq.com/s/E9Av7TDdS0UXXPqrF4M-RG)
   - The PDF version of all slides are available in this folder on Tencent Drive.
 - [Introduction & People](https://docs.google.com/presentation/d/1lf3MmNeb80IWsQuHQRl26PeYGXYhNjM3LLGK8jCf8F8/edit?usp=sharing)
 
@@ -63,3 +73,12 @@ Creative Coding is organized as a four-class summer camp. Each class introduces 
 Throughout the course, students will engage foundational programming concepts and computational processes, such as variables, conditionals, randomness, repetition, and transformations. These concepts will be connected to creative outcomes, including generative visuals, motion, interaction, and simple computational systems.
 
 Upon completion of this summer course, students will be able to read and modify basic p5.js sketches, break creative ideas into smaller computational steps, experiment with variation, and combine multiple coding concepts and techniques into generative visualizations and interactive experiences.
+
+
+
+
+---
+<br/><br/><br/><br/><br/><br/>
+
+
+<h3 align="right"><a href="https://tinyurl.com/ima-creative-coding">https://tinyurl.com/ima-creative-coding</a></h3>
