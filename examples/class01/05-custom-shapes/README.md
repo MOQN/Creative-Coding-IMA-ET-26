@@ -28,9 +28,13 @@ When you click on the canvas, the code will log the mouse coordinates in the Con
 
 `mousePressed()` is an event function that is called whenever the mouse is pressed. We will review this in more detail later.
 <div id="code-07"></div>
+<br/>
+
+#### vertex()
+<div id="code-08"></div>
 
 <script>
-  const numberOfCodeBlocks = 7;
+  const numberOfCodeBlocks = 8;
   const folderName = 'examples/class01/05-custom-shapes/';
 
   for (let i = 1; i <= numberOfCodeBlocks; i++) {

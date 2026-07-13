@@ -36,5 +36,5 @@ function draw() {
 function mousePressed() {
   // Please copy and paste this code into p5.js web editor, check the Console!
   // Log the coordinates of the mouse click in the console with the format of a splineVertex() function!
-  console.log("splineVertex(" + mouseX + "," + mouseY + ");");
+  console.log("splineVertex(" + round(mouseX) + "," + round(mouseY) + ");");
 }
