@@ -3,6 +3,24 @@
 
 ---
 
+- [EXAMPLES on p5 Web Editor](examples/course-examples.md)
+
+---
+
+<h3 style="color:DarkOrchid;">Class 02</h3>
+
+- [VARIABLES](examples/class02/01-variables/README.md)
+- [COMPARISONS & INTERACTION](examples/class02/02-comparisons-interaction/README.md)
+- [INTERACTIVE DRAWING](examples/class02/03-interactive-drawing/README.md)
+- [COLOR PALETTES](examples/class02/04-color-palettes/README.md)
+- [LINEAR MOTION](examples/class02/05-linear-motion/README.md)
+- [NON-LINEAR MOTION](examples/class02/06-non-linear-motion/README.md)
+- [MOTION APPLICATIONS](examples/class02/07-motion-applications/README.md)
+- [OSCILLATION](examples/class02/08-oscillation/README.md)
+- [ANGULAR MOTION](examples/class02/09-angular-motion/README.md)
+
+---
+
 <h3 style="color:DarkOrchid;">Class 01</h3>
 
 - [COORDS & ENV VARIABLES](examples/class01/01-coords/README.md)
