@@ -83,5 +83,6 @@ Upon completion of this summer course, students will be able to read and modify 
 ---
 <br/><br/><br/><br/><br/><br/>
 
+### [https://tinyurl.com/ima-creative-coding](https://tinyurl.com/ima-creative-coding)
 
-<h3 align="right"><a href="https://tinyurl.com/ima-creative-coding">https://tinyurl.com/ima-creative-coding</a></h3>
+### [https://editor.p5js.org/](https://editor.p5js.org/)
