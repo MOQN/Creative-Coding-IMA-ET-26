@@ -1,9 +1,9 @@
 <h2><a href="index.html">Creative Coding</a></h2>
-<p>Emerging Technologies IMA Summer Institute '26</p>
+<h4 style="color:gray;">Emerging Technologies IMA Summer Institute '26 NYU Shanghai</h4>
 
 ---
 
-### Class 01
+<h3 style="color:DarkOrchid;">Class 01</h3>
 
 - [COORDS & ENV VARIABLES](examples/class01/01-coords/README.md)
 - [COLORS](examples/class01/02-colors/README.md)

@@ -23,14 +23,17 @@ Live Documents: [Group1](https://docs.qq.com/doc/DY05jRHRuUkNRaXJN) | [Group2](h
 
 ## Course Materials
 
-- [Course Website](https://tinyurl.com/ima-creative-coding):
-  - [**https://tinyurl.com/ima-creative-coding**](https://tinyurl.com/ima-creative-coding)
+- **Course Website**
+  - [https://tinyurl.com/ima-creative-coding](https://tinyurl.com/ima-creative-coding)
   - Please add this link to your bookmarks for easy access!
-- [Live Document | Creative Coding](https://docs.qq.com/doc/DY0xqRXdhbk5IZ21W)
+- **Live Document**
+  - [Group1](https://docs.qq.com/doc/DY05jRHRuUkNRaXJN) | [Group2](https://docs.qq.com/doc/DY0xqRXdhbk5IZ21W) | [Group3](https://docs.qq.com/doc/DY3VxVmFqUGdpQ256) | [Group4](https://docs.qq.com/doc/DY2NmZ1VDdEFpR3pv)
   - We will use this document to flexibly share class notes, links to example sketches and your work!
-- [Slides (PDFs) | Creative Coding](https://docs.qq.com/s/E9Av7TDdS0UXXPqrF4M-RG)
+- **Slides (PDFs) | Creative Coding**
+  - [Google Slides](https://drive.google.com/drive/folders/19DSLoEPeacUYDDg4Bmnh3CV7kxA553QZ?usp=drive_link) | [PDFs](https://docs.qq.com/s/E9Av7TDdS0UXXPqrF4M-RG)
   - The PDF version of all slides are available in this folder on Tencent Drive.
-- [Introduction & People](https://docs.google.com/presentation/d/1lf3MmNeb80IWsQuHQRl26PeYGXYhNjM3LLGK8jCf8F8/edit?usp=sharing)
+- **People**
+  - [Introduction Slides](https://docs.google.com/presentation/d/1lf3MmNeb80IWsQuHQRl26PeYGXYhNjM3LLGK8jCf8F8/edit?usp=sharing)
 
 ## Course Schedule
 
