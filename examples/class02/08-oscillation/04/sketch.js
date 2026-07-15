@@ -1,8 +1,9 @@
 function setup() {
   createCanvas(800, 400);
   background(0);
+
+  noStroke();
   fill(255);
-  stroke(100);
 }
 
 function draw() {
@@ -15,12 +16,14 @@ function draw() {
   let x = frameCount % width;
   let ySine = height * 1 / 3 + sinValue;
   let yNoise = height * 2 / 3 + noiseValue;
+  let ySineAndNoise = height / 2 + sinValue + noiseValue;
 
   // sine
-  circle(x, ySine, 3, 3);
-  line(0, height * 1 / 3, width, height * 1 / 3);
+  circle(x, ySine, 1);
 
   // noise
-  circle(x, yNoise, 3, 3);
-  line(0, height * 2 / 3, width, height * 2 / 3);
+  circle(x, yNoise, 1);
+
+  // sine + noise: Additive Waves
+  circle(x, ySineAndNoise, 5);
 }

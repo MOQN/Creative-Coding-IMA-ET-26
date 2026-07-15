@@ -23,7 +23,7 @@ We can organize the the code above this way, using **Angle** `angle`, **angular 
 
 <script>
   const numberOfCodeBlocks = 6;
-  const folderName = 'examples/class02/09-angular-motion/';
+  const folderName = 'examples/class02/10-angular-motion/';
 
   for (let i = 1; i <= numberOfCodeBlocks; i++) {
     loadCodeBlock(`${folderName}0${i}`, `code-0${i}`);

@@ -1,14 +1,10 @@
-# Oscillation
+# Applying Sine Values to Other Properties
 
-## Sine 
+## to color
 <div id="code-01"></div>
+
+## to size
 <div id="code-02"></div>
-
-## Sine vs. Noise
-<div id="code-03"></div>
-
-## Sine, Noise, and Additive Waves
-<div id="code-04"></div>
 
 <!-- <div id="code-04"></div>
 <div id="code-05"></div>
@@ -18,8 +14,8 @@
 <div id="code-09"></div> -->
 
 <script>
-  const numberOfCodeBlocks = 4;
-  const folderName = 'examples/class02/08-oscillation/';
+  const numberOfCodeBlocks = 2;
+  const folderName = 'examples/class02/09-sine-applications/';
 
   for (let i = 1; i <= numberOfCodeBlocks; i++) {
     loadCodeBlock(`${folderName}0${i}`, `code-0${i}`);

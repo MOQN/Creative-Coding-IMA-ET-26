@@ -17,7 +17,8 @@
 - [NON-LINEAR MOTION](examples/class02/06-non-linear-motion/README.md)
 - [MOTION APPLICATIONS](examples/class02/07-motion-applications/README.md)
 - [OSCILLATION](examples/class02/08-oscillation/README.md)
-- [ANGULAR MOTION](examples/class02/09-angular-motion/README.md)
+- [SINE APPLICATIONS](examples/class02/09-sine-applications/README.md)
+- [ANGULAR MOTION](examples/class02/10-angular-motion/README.md)
 
 ---
 
