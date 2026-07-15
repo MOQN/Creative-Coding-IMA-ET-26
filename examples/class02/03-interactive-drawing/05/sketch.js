@@ -19,18 +19,20 @@ function draw() {
       g = 0;
       b = 255;
     } else if (mouseX > 10 && mouseX < 50 && mouseY > 50 && mouseY < 90) {
+      // green
       r = 0;
       g = 255;
       b = 0;
+    } else {
+      //if the mouse is pressed and not in the button area
+      // draw a circle
+      noStroke();
+      fill(r, g, b);
+      circle(mouseX, mouseY, 30);
     }
   }
 
-  // draw an ellipse
-  if (mouseIsPressed) {
-    noStroke();
-    fill(r, g, b);
-    ellipse(mouseX, mouseY, 30, 30);
-  }
+
 
   // display rects for the area
   stroke(255);

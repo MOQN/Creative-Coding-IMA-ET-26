@@ -36,16 +36,18 @@ function draw() {
       mouseY > button2Y &&
       mouseY < button2Y + buttonSize
     ) {
+      // green
       r = 0;
       g = 255;
       b = 0;
+    } else {
+      //if the mouse is pressed and not in the button area
+      // draw a circle
+      noStroke();
+      fill(r, g, b);
+      circle(mouseX, mouseY, 30);
     }
   }
-
-  // draw an ellipse
-  noStroke();
-  fill(r, g, b);
-  ellipse(mouseX, mouseY, 30, 30);
 
   // display rects for the area
   stroke(255);
