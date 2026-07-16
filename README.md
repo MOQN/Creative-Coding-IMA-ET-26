@@ -40,28 +40,30 @@ Live Documents: [Group1](https://docs.qq.com/doc/DY05jRHRuUkNRaXJN) | [Group2](h
 *The course schedule may be subject to change. Changes will be communicated in class.*
 
 Week 1
-- **Class 1: Draw Your Imaginary Self**
+- **Class 1: Your Imaginary Self**
   - [1.1 Intro to p5.js](https://docs.google.com/presentation/d/1vjg7tlyMckREdvHgv1QBg_o6l137BW6kNndZ7YDr_H0/edit?usp=sharing) 
   - [1.2 Colors](https://docs.google.com/presentation/d/1dXfal0ScscUZbS7_WelPVKNOWSObkPyOhpCPeSWrRQE/edit?usp=sharing) 
   - [1.3 Activity: Draw **Your** Imaginary Self](https://docs.google.com/presentation/d/17bVmWBIwwekwiEdZ-GWJVAfMzVqZeZIytRbK4bBQU2Q/edit?usp=sharing) 
 
-- **Class 2: Make It Move**
-  - [Extra 2.0 Console & Order of Execution](https://docs.google.com/presentation/d/1eGhL9-0dwDeqZm_WVIz2rvxNFzSaNabrHguRSHqj9v8/edit?usp=drive_link)
+- **Class 2: Generative / Interactive Drawing!**
   - [2.1 Generative Art](https://docs.google.com/presentation/d/1xW5lJdxcluPbTzkmpXhTv6TYXJIhQy-r-NfpnuJH3rM/edit?usp=drive_link)
   - [2.2 Variables](https://docs.google.com/presentation/d/1y_q-GH5HcwLo7GQX2TFPcfB4ddUwl2TlWotQUnJ-iYw/edit?usp=drive_link)
   - [2.3 Comparisons and Interaction](https://docs.google.com/presentation/d/1olhmyXs-Zn_mkesgIpRrrqrJJJQYx_0qKrBzFVBPMVQ/edit?usp=drive_link)
+  - [2.4 Animation & Motion](https://docs.google.com/presentation/d/1M3-8b29tzbnmV7T5qbVB_3kXenTxomjwzaB3rxhQuvA/edit?usp=drive_link)
+  - [2.5 Activity: Interactive Drawing](https://docs.google.com/presentation/d/1XeaVuZlXKlStHq9zOMMXIqUqf2YTWRlwgYWrGihNJ9k/edit?usp=drive_link)
+  - Below are extra slides for class 2.4, which are might be useful for your own learning.
+  - [Extra 2.6 Oscillation & Angular Motion](https://docs.google.com/presentation/d/1lcc42yC_9EYEMFf4qJGeyw0hrd0TIL2XklOrPeiuYEQ/edit?usp=drive_link)
+  - [Extra 2.7 Oscillation: Noise](https://docs.google.com/presentation/d/1nM1Y8mHN-wPQ8iBH9ND3NNzO5ewZm8IoqqMKns3_Jro/edit?usp=drive_link)
   - [Extra 2.4 Math functions](https://docs.google.com/presentation/d/1pFD1o3bDojRgQ4fW3W1hWXN0OfAaEtfUdvDrgFANBXQ/edit?usp=drive_link)
-  - [2.5 Animation & Motion](https://docs.google.com/presentation/d/1M3-8b29tzbnmV7T5qbVB_3kXenTxomjwzaB3rxhQuvA/edit?usp=drive_link)
-  - [2.6 Oscillation & Angular Motion](https://docs.google.com/presentation/d/1lcc42yC_9EYEMFf4qJGeyw0hrd0TIL2XklOrPeiuYEQ/edit?usp=drive_link)
-  - [2.7 Oscillation: Noise](https://docs.google.com/presentation/d/1nM1Y8mHN-wPQ8iBH9ND3NNzO5ewZm8IoqqMKns3_Jro/edit?usp=drive_link)
-  - [2.8 Activity: Generative Motion](https://docs.google.com/presentation/d/1XeaVuZlXKlStHq9zOMMXIqUqf2YTWRlwgYWrGihNJ9k/edit?usp=drive_link)
+  - [Extra 2.0 Console & Order of Execution](https://docs.google.com/presentation/d/1eGhL9-0dwDeqZm_WVIz2rvxNFzSaNabrHguRSHqj9v8/edit?usp=drive_link)
 
 Week 2
-- **Class 3: Build Patterns and Systems**
-  - Transformations & Patterns
+- **Class 3: Audio Visualizations**
+  - Sound files, Audio Visualizations
+  - (Maybe not) Transformations & Patterns
 
 - **Class 4: Create Your Interactive Experience**
-  - Image, Sound, ml5.js
+  - Creative Coding + Machine Learning
 
 Bonus:
 - Particles

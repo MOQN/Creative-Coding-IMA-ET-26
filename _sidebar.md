@@ -14,11 +14,13 @@
 - [INTERACTIVE DRAWING](examples/class02/03-interactive-drawing/README.md)
 - [COLOR PALETTES](examples/class02/04-color-palettes/README.md)
 - [LINEAR MOTION](examples/class02/05-linear-motion/README.md)
-- [NON-LINEAR MOTION](examples/class02/06-non-linear-motion/README.md)
 - [MOTION APPLICATIONS](examples/class02/07-motion-applications/README.md)
-- [OSCILLATION](examples/class02/08-oscillation/README.md)
-- [SINE APPLICATIONS](examples/class02/09-sine-applications/README.md)
-- [ANGULAR MOTION](examples/class02/10-angular-motion/README.md)
+- [EXAMPLES](examples/class02/11-examples/README.md)
+- Extra Examples:
+  - [NON-LINEAR MOTION](examples/class02/06-non-linear-motion/README.md)
+  - [OSCILLATION](examples/class02/08-oscillation/README.md)
+  - [SINE APPLICATIONS](examples/class02/09-sine-applications/README.md)
+  - [ANGULAR MOTION](examples/class02/10-angular-motion/README.md)
 
 ---
 
