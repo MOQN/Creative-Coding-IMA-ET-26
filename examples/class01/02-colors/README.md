@@ -13,7 +13,5 @@
   const numberOfCodeBlocks = 3;
   const folderName = 'examples/class01/02-colors/';
 
-  for (let i = 1; i <= numberOfCodeBlocks; i++) {
-    loadCodeBlock(`${folderName}0${i}`, `code-0${i}`);
-  }
+  loadCodeBlocks(folderName, numberOfCodeBlocks);
 </script>

@@ -28,7 +28,5 @@ bounce the ball off the edges of the canvas by reversing the speed when it goes 
   const numberOfCodeBlocks = 5;
   const folderName = 'examples/class02/05-linear-motion/';
 
-  for (let i = 1; i <= numberOfCodeBlocks; i++) {
-    loadCodeBlock(`${folderName}0${i}`, `code-0${i}`);
-  }
+  loadCodeBlocks(folderName, numberOfCodeBlocks);
 </script>

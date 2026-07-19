@@ -37,7 +37,5 @@ When you click on the canvas, the code will log the mouse coordinates in the Con
   const numberOfCodeBlocks = 8;
   const folderName = 'examples/class01/05-custom-shapes/';
 
-  for (let i = 1; i <= numberOfCodeBlocks; i++) {
-    loadCodeBlock(`${folderName}0${i}`, `code-0${i}`);
-  }
+  loadCodeBlocks(folderName, numberOfCodeBlocks);
 </script>

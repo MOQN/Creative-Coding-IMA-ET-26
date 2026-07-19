@@ -29,7 +29,5 @@ Please look at the **Custom Shapes** examples!
   const numberOfCodeBlocks = 8;
   const folderName = 'examples/class01/03-shapes/';
 
-  for (let i = 1; i <= numberOfCodeBlocks; i++) {
-    loadCodeBlock(`${folderName}0${i}`, `code-0${i}`);
-  }
+  loadCodeBlocks(folderName, numberOfCodeBlocks);
 </script>

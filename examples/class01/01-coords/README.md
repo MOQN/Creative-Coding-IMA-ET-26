@@ -26,7 +26,5 @@ You can get x and y coordinates of the mouse by using the environment variables 
   const numberOfCodeBlocks = 8;
   const folderName = 'examples/class01/01-coords/';
 
-  for (let i = 1; i <= numberOfCodeBlocks; i++) {
-    loadCodeBlock(`${folderName}0${i}`, `code-0${i}`);
-  }
+  loadCodeBlocks(folderName, numberOfCodeBlocks);
 </script>

@@ -22,7 +22,5 @@
   const numberOfCodeBlocks = 6;
   const folderName = 'examples/class02/06-non-linear-motion/';
 
-  for (let i = 1; i <= numberOfCodeBlocks; i++) {
-    loadCodeBlock(`${folderName}0${i}`, `code-0${i}`);
-  }
+  loadCodeBlocks(folderName, numberOfCodeBlocks);
 </script>

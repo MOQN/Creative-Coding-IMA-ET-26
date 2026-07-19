@@ -17,7 +17,5 @@
   const numberOfCodeBlocks = 2;
   const folderName = 'examples/class02/09-sine-applications/';
 
-  for (let i = 1; i <= numberOfCodeBlocks; i++) {
-    loadCodeBlock(`${folderName}0${i}`, `code-0${i}`);
-  }
+  loadCodeBlocks(folderName, numberOfCodeBlocks);
 </script>

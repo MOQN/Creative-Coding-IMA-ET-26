@@ -12,7 +12,5 @@ Similarly, the **diameter** of the circle can also change gradually toward one v
   const numberOfCodeBlocks = 2;
   const folderName = 'examples/class02/07-motion-applications/';
 
-  for (let i = 1; i <= numberOfCodeBlocks; i++) {
-    loadCodeBlock(`${folderName}0${i}`, `code-0${i}`);
-  }
+  loadCodeBlocks(folderName, numberOfCodeBlocks);
 </script>

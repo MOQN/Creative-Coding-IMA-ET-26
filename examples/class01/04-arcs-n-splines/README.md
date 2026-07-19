@@ -37,7 +37,5 @@ Please look at the **Custom Shapes** examples!
   const numberOfCodeBlocks = 5;
   const folderName = 'examples/class01/04-arcs-n-splines/';
 
-  for (let i = 1; i <= numberOfCodeBlocks; i++) {
-    loadCodeBlock(`${folderName}0${i}`, `code-0${i}`);
-  }
+  loadCodeBlocks(folderName, numberOfCodeBlocks);
 </script>

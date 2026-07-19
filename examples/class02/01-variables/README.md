@@ -26,7 +26,5 @@ Strings are sequences of characters, and you can combine them using **string con
   const numberOfCodeBlocks = 5;
   const folderName = 'examples/class02/01-variables/';
 
-  for (let i = 1; i <= numberOfCodeBlocks; i++) {
-    loadCodeBlock(`${folderName}0${i}`, `code-0${i}`);
-  }
+  loadCodeBlocks(folderName, numberOfCodeBlocks);
 </script>

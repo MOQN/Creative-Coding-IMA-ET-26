@@ -24,7 +24,5 @@ Feel free to explore in your own way!
   const numberOfCodeBlocks = 6;
   const folderName = 'examples/class01/06-applications/';
 
-  for (let i = 1; i <= numberOfCodeBlocks; i++) {
-    loadCodeBlock(`${folderName}0${i}`, `code-0${i}`);
-  }
+  loadCodeBlocks(folderName, numberOfCodeBlocks);
 </script>

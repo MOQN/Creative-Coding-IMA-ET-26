@@ -37,7 +37,5 @@ The second sketch is more organized with `button1X`, `button1Y`, `button2X`, and
   const numberOfCodeBlocks = 6;
   const folderName = 'examples/class02/03-interactive-drawing/';
 
-  for (let i = 1; i <= numberOfCodeBlocks; i++) {
-    loadCodeBlock(`${folderName}0${i}`, `code-0${i}`);
-  }
+  loadCodeBlocks(folderName, numberOfCodeBlocks);
 </script>

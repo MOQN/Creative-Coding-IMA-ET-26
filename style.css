@@ -4,6 +4,7 @@
 :root {
   /* Primary Theme Color */
   --theme-color: #4A249D;
+  --secondary-color: LightSeaGreen;
   --link-color: #009FBD;
 }
 
@@ -58,6 +59,10 @@ body,
 .markdown-section h5 a,
 .markdown-section h6 a {
   font-weight: 500;
+}
+
+.markdown-section em {
+  color: var(--secondary-color) !important;
 }
 
 .markdown-section .code-block-wrap pre,

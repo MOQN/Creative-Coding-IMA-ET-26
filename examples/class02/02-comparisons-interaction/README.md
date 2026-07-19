@@ -22,7 +22,5 @@ Draw background when **spacebar** is pressed. (`keyIsPressed` is `true` and `key
   const numberOfCodeBlocks = 4;
   const folderName = 'examples/class02/02-comparisons-interaction/';
 
-  for (let i = 1; i <= numberOfCodeBlocks; i++) {
-    loadCodeBlock(`${folderName}0${i}`, `code-0${i}`);
-  }
+  loadCodeBlocks(folderName, numberOfCodeBlocks);
 </script>

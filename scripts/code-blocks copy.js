@@ -191,7 +191,7 @@
     }
   }
 
-  // Horizontal layout (code left, canvas right)
+  // horizontal layout (code left, canvas right)
   function loadCodeBlock(folder, anchorId) {
     const resolvedFolder = resolveFolder(folder);
     if (!resolvedFolder) return;
@@ -258,7 +258,7 @@
       });
   }
 
-  // Stacked layout (iframe top, code block full width below)
+  // stacked layout (iframe top, code block full width below)
   function loadCodeBlockWide(folder, anchorId) {
     const resolvedFolder = resolveFolder(folder);
     if (!resolvedFolder) return;
@@ -293,19 +293,6 @@
       });
   }
 
-  // New function to handle batch loading with automatic zero-padding
-  function loadCodeBlocks(baseFolder, count) {
-    for (let i = 1; i <= count; i++) {
-      // padStart ensures single digits become two digits (e.g., 1 -> 01, 10 -> 10)
-      const paddedNumber = String(i).padStart(2, '0');
-      const targetFolder = baseFolder + paddedNumber;
-      const targetAnchor = 'code-' + paddedNumber;
-
-      loadCodeBlock(targetFolder, targetAnchor);
-    }
-  }
-
   window.loadCodeBlock = loadCodeBlock;
   window.loadCodeBlockWide = loadCodeBlockWide;
-  window.loadCodeBlocks = loadCodeBlocks;
 })();
