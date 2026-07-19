@@ -41,7 +41,7 @@ You can modify the code, where I indicated with `// draw your own visuals here!`
 
 <script>
   const numberOfCodeBlocks = 8;
-  const folderName = 'examples/class02/11-examples/';
+  const folderName = 'examples/class02/00-examples/';
 
   loadCodeBlocks(folderName, numberOfCodeBlocks);
 </script>
