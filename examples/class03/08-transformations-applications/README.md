@@ -29,10 +29,11 @@ We can use **nested loops** for both the **angle** and the **radial distance**!
 ## Example 06
 Let's try a **grid**!
 
-<!-- <div id="code-07"></div>
-<div id="code-08"></div>
+<div id="code-07"></div>
+
+<!-- <div id="code-08"></div>
 <div id="code-09"></div> -->
 
 <script>
-  loadCodeBlocks('examples/class03/08-transformations-applications/', 6);
+  loadCodeBlocks('examples/class03/08-transformations-applications/', 7);
 </script>
