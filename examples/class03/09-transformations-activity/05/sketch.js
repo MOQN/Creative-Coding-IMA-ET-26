@@ -48,4 +48,10 @@ function draw() {
   strokeWeight(thickness);
   rect(x, y, w, h);
   pop();
+
+  // after 5 seconds, stop (and save the canvas as a PNG)!
+  if (frameCount == 60 * 5) {
+    noLoop();
+    saveCanvas("pattern", "png");
+  }
 }
