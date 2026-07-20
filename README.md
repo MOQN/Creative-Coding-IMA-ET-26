@@ -45,7 +45,7 @@ Week 1
   - [1.2 Colors](https://docs.google.com/presentation/d/1dXfal0ScscUZbS7_WelPVKNOWSObkPyOhpCPeSWrRQE/edit?usp=sharing) 
   - [1.3 Activity: Draw **Your** Imaginary Self](https://docs.google.com/presentation/d/17bVmWBIwwekwiEdZ-GWJVAfMzVqZeZIytRbK4bBQU2Q/edit?usp=sharing) 
 
-- **Class 2: Generative / Interactive Drawing!**
+- **Class 2: Interactive Drawing!**
   - [2.1 Generative Art](https://docs.google.com/presentation/d/1xW5lJdxcluPbTzkmpXhTv6TYXJIhQy-r-NfpnuJH3rM/edit?usp=drive_link)
   - [2.2 Variables](https://docs.google.com/presentation/d/1y_q-GH5HcwLo7GQX2TFPcfB4ddUwl2TlWotQUnJ-iYw/edit?usp=drive_link)
   - [2.3 Comparisons and Interaction](https://docs.google.com/presentation/d/1olhmyXs-Zn_mkesgIpRrrqrJJJQYx_0qKrBzFVBPMVQ/edit?usp=drive_link)
@@ -58,11 +58,12 @@ Week 1
   - [Extra 2.0 Console & Order of Execution](https://docs.google.com/presentation/d/1eGhL9-0dwDeqZm_WVIz2rvxNFzSaNabrHguRSHqj9v8/edit?usp=drive_link)
 
 Week 2
-- **Class 3: Audio Visualizations**
-  - Sound files, Audio Visualizations
-  - (Maybe not) Transformations & Patterns
+- **Class 3: Build Your Pattern**
+  - [3.1 Loops](https://docs.google.com/presentation/d/1-2YT90xY1D5_7d9F7To7mI3Ulp3_sOS-NSayY519Fug/edit?usp=drive_link)
+  - [3.2 Transformation functions](https://docs.google.com/presentation/d/1OFfjzeyw19CaC2bCry31YWnpgjDV8kjS-yAVZsFH1gU/edit?usp=drive_link)
 
 - **Class 4: Create Your Interactive Experience**
+  - Sound files, Audio Visualizations
   - Creative Coding + Machine Learning
 
 Bonus:
