@@ -5,6 +5,14 @@
 
 - [EXAMPLES on p5 Web Editor](examples/course-examples.md)
 
+
+---
+
+<h3 style="color:DarkOrchid;">Class 04</h3>
+
+- Interactive Experience!
+  - [Examples!](examples/class04/README.md)
+  - 
 ---
 
 <h3 style="color:DarkOrchid;">Class 03</h3>
