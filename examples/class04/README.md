@@ -14,7 +14,7 @@ How about creating your own interactive experience using ml5's BodyPose or HandP
 
 **HandPose + Generative Pattern**
 
-## Audio Visualization
+## Audio Input
 
 - [Audio Input from Sound File](https://editor.p5js.org/MOQN/sketches/NqNbFV_or)
 - [Audio Input from Microphone](https://editor.p5js.org/MOQN/sketches/DtHkaJdLG)
@@ -27,3 +27,14 @@ Instead, you could use audio input from the p5.sound library to create audio/vis
 
 **Audio Input + Generative Pattern**
 
+
+## ml5.js
+
+https://ml5js.org/
+
+Friendly Machine Learning for the Web
+A neighborly approach to creating and exploring artificial intelligence in the browser.
+
+- [BodyPose](https://editor.p5js.org/ml5/sketches/hMN9GdrO3)
+- [HandPose](https://editor.p5js.org/ml5/sketches/QGH3dwJ1A)
+- [FaceMesh](https://editor.p5js.org/ml5/sketches/lCurUW1TT)
