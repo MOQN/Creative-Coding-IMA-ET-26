@@ -1,5 +1,6 @@
-# ignore mac files
+# ignore unncessary files
 .DS_Store
+.vscode
 
 # ignore node modules
 node_modules/
@@ -8,5 +9,4 @@ node_modules/
 .env
 
 # ignore a folder starting with "__"
-__test__/
 __*
